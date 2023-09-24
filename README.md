@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<a href="https://rb.gy/p3idf"><img title="YouTube" src="https://img.shields.io/badge/bugflixer-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/bugflixer"><img title="YouTube" src="https://img.shields.io/badge/YouTube-bugfixer-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/bugflixer"><img title="YouTube" src="https://img.shields.io/badge/bugflixer-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rb.gy/p3idf"><img title="YouTube" src="https://img.shields.io/badge/YouTube-bugfixer-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
