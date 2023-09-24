@@ -10,7 +10,6 @@
 
 <p align="center">
 <a href="https://rb.gy/wldl9"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-  </p>
 <a href="https://rb.gy/ob6n3"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <a href="https://rb.gy/eos8t"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
