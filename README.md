@@ -6,12 +6,8 @@
 <p align="center">
 <a href="https://github.com/bugflixer"><img title="YouTube" src="https://img.shields.io/badge/bugflixer-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rb.gy/p3idf"><img title="YouTube" src="https://img.shields.io/badge/YouTube-bugfixer-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-
-<p align="center">
 <a href="https://rb.gy/wldl9"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://rb.gy/ob6n3"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-</p>
 <a href="https://rb.gy/eos8t"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 </p>
 <!--<p align="center">
