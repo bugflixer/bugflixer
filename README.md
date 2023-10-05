@@ -1,7 +1,14 @@
 <p align="center"><img src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" alt="Bt">
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/bugflixer"><img title="BugflixeR" src="https://github-readme-stats.vercel.app/api?username=bugflixer&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
+<<div style="text-align: center;">
+    <img src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" alt="Bt">
+</div>
+
+<div style="text-align: center;">
+    <a href="https://github.com/bugflixer">
+        <img title="BugflixeR" src="https://github-readme-stats.vercel.app/api?username=bugflixer&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
+    </a>
+</div>
 
 <p align="center">
 <a href="https://github.com/bugflixer"><img title="YouTube" src="https://img.shields.io/badge/bugflixer-brightgreen?style=for-the-badge&logo=github"></a>
